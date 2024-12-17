@@ -1,4 +1,5 @@
-.font-class {
+.clickme-class,
+.noclickme-class {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
