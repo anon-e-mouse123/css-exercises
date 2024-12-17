@@ -1,0 +1,19 @@
+.odd-element {
+    background-color: #ffc0cb;
+    font-family: Dejana, "Dejavu Sans", sans-serif;
+}
+
+#second-element {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.medium-size-font {
+    font-size: 24px;
+}
+
+#fourth-element.medium-size-font {
+    background-color: #008000;
+    font-weight: bold;
+
+}
